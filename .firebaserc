@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-7f866"
+  },
+  "targets": {
+    "angular-7f866": {
+      "hosting": {
+        "prueba": [
+          "angular-7f866"
+        ]
+      }
+    }
+  }
+}
